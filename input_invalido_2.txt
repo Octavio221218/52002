@@ -1,0 +1,6 @@
+usuario Usuario8 {
+  nombre = "Miguel";
+  edad = veinticinco;
+  activo = verdadero;
+}
+// 'veinticinco' no es un número válido

@@ -1,0 +1,6 @@
+usuario Usuario7 {
+  nombre = "Sofía"
+  edad = 19;
+  activo = verdadero;
+}
+
